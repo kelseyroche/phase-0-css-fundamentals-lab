@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+head {
+  text-align: center;
+}
+title {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+#featured-property {
+  text-align: center;
+  p{
+    with:800px
+  }
+}
+
+nav {
+  text-align: center;
+}
+
+div {
+  width: 25%;
+  float:left;
+  background-color:red;
+  text-align: center;
+}
